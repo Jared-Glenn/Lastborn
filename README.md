@@ -2,7 +2,7 @@
 Manifest RTS
 
 
-Unit Type Brainstorm
+### Unit Type Brainstorm
 
 Riflemen
 
@@ -13,3 +13,12 @@ Tenbladesman
 Engineer
 
 Deep Maker
+
+### Enemy Type Brainstorm
+
+Bows
+
+
+### Story Brainstorm
+
+Maybe something to do with Gallows?
