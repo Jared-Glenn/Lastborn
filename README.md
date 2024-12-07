@@ -22,3 +22,5 @@ Bows
 ### Story Brainstorm
 
 Maybe something to do with Gallows?
+
+Some new lastborn kinship is created. who should it be?
