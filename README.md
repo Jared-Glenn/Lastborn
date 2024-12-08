@@ -16,7 +16,15 @@ Deep Maker
 
 ### Enemy Type Brainstorm
 
-Bows
+Ranged
+
+Melee
+
+Redirecters (Aegis Wheels)
+
+Slow Big
+
+Fast Big
 
 
 ### Story Brainstorm
