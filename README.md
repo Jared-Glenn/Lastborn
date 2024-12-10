@@ -36,4 +36,11 @@ Some new lastborn kinship is created. who should it be?
 - https://cryptidz.fandom.com/wiki/Varginha_Devil
 - The three ridged head and red eyes might be a good direction to go.
 
+An Adalonean hangman discovers these new lastborn. Perhaps they initially clash, but soon grow respect for one another. (This will depend a great deal on what the whistlers might have made them for.)
+
+
+
+
+
+
 NOTE: Their article on Venezualan Hairy Dwarves is fairly robust: https://cryptidz.fandom.com/wiki/Venezuelan_Hairy_Dwarves
