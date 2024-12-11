@@ -38,6 +38,19 @@ Some new lastborn kinship is created. who should it be?
 
 An Adalonean hangman discovers these new lastborn. Perhaps they initially clash, but soon grow respect for one another. (This will depend a great deal on what the whistlers might have made them for.)
 
+So maybe give them unique units so that the two groups can battle one another for multiple missions.
+
+Lastborn Kinship:
+
+Name:
+
+Abilities:
+
+Purpose:
+
+- To befriend the hangmen? Like this is the plan somehow?
+- To carry disease.
+- Something to do with the towns/forts they defend.
 
 
 
