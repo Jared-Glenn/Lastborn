@@ -44,11 +44,14 @@ Lastborn Kinship:Thunn’ha?
 
 Name:
 
--Thunn’ha (Lovecraftian Frog People)
+-Thunn’ha (Lovecraftian Frog People) thuum'ha
 -Loveland Frog?
+-https://lovecraft.fandom.com/wiki/Thuum%27ha?file=Thuumha.jpg
 
 
 Abilities:
+
+- Magic wands
 
 Purpose:
 
