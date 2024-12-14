@@ -53,6 +53,7 @@ Abilities:
 
 - Magic wands
 - Maybe the ability to channel electricity through wood? Thus,the wands and sprays of sparks.
+- Maybe they speak or see through wood?
 
 Purpose:
 
