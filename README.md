@@ -55,6 +55,7 @@ Abilities:
 - Maybe the ability to channel electricity through wood? Thus,the wands and sprays of sparks.
 - Maybe they speak or see through wood?
 - Maybe their mouths are enormous and only for eating, but the sparks make sounds like talking.
+- Maybe their hands and feet come from snail shells and they have eyestalks in their hands that look like wands.
 
 Purpose:
 
