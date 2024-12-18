@@ -56,6 +56,7 @@ Abilities:
 - Maybe they speak or see through wood?
 - Maybe their mouths are enormous and only for eating, but the sparks make sounds like talking.
 - Maybe their hands and feet come from snail shells and they have eyestalks in their hands that look like wands.
+- I think their tongues should also be a semi-autonomous part of their anatomy, perhaps with eyes of its own.
 
 Purpose:
 
