@@ -64,6 +64,9 @@ Purpose:
 - To befriend the hangmen? Like this is the plan somehow?
 - To carry disease.
 - Something to do with the towns/forts they defend.
+- These guys have mortal souls, and mortal souls bring life and change from the Manifest for the Host Kings and carry back dust and certainty from Destron for the Whistlers.
+- Maybe they carry something else? Memory and experience? Naivete and wonder? Some unique aspect of life?
+- Why create a new mortal soul for lastborn? Do they know they did it? Did they learn to do it from observing the hangmen or did they always know how? If they always knew how, why did they make the hangmen?
 
 
 
