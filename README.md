@@ -16,6 +16,8 @@ Deep Maker
 
 ### Enemy Type Brainstorm
 
+Thelgeth (Cappers)
+
 Ranged
 
 Melee
