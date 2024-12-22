@@ -40,6 +40,8 @@ An Adalonean hangman discovers these new lastborn. Perhaps they initially clash,
 
 So maybe give them unique units so that the two groups can battle one another for multiple missions.
 
+Maybe a reason to try to move west?
+
 Lastborn Kinship:Thunn’ha?
 
 Name:
