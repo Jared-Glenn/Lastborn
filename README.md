@@ -18,6 +18,10 @@ Deep Maker
 
 Thelgeth (Cappers)
 
+Whistlers
+
+Fevriks
+
 Ranged
 
 Melee
