@@ -48,6 +48,8 @@ So maybe give them unique units so that the two groups can battle one another fo
 
 Maybe a reason to try to move west?
 
+Maybe creating a home in Croatova?
+
 Lastborn Kinship:Thunn’ha?
 
 Name:
