@@ -50,6 +50,10 @@ Maybe a reason to try to move west?
 
 Maybe creating a home in Croatova?
 
+That would mean making fortifications, rather than conquering, which is fun too.
+
+
+
 Lastborn Kinship:Thunn’ha?
 
 Name:
