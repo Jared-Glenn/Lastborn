@@ -84,6 +84,7 @@ Purpose:
 - Can't be a mistake - that's the hook for the hangmen.
 - Maybe they exist because souls are the bastion of mortals and they want to weaken it. If they aren't allies, they won't feel like kin. Maybe these lastborn were created to see the flaws in mortal souls clearly so that they would inevitably side with the whistlers.
 - What if they contain the sparks of a dead whistler? Manifestations of First Breath, maybe? Escaped positive aspects of the whistlers themselves that they want to destroy, freeing themselves from morality, altogether.
+- What even is a soul? Like a subdivision of sentience, maybe? Like whistlers can't be subdivided, but mortals can (souls and bodies).
 
 
 
