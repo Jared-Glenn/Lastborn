@@ -83,6 +83,7 @@ Purpose:
 - Why create a new mortal soul for lastborn? Do they know they did it? Did they learn to do it from observing the hangmen or did they always know how? If they always knew how, why did they make the hangmen?
 - Can't be a mistake - that's the hook for the hangmen.
 - Maybe they exist because souls are the bastion of mortals and they want to weaken it. If they aren't allies, they won't feel like kin. Maybe these lastborn were created to see the flaws in mortal souls clearly so that they would inevitably side with the whistlers.
+- What if they contain the sparks of a dead whistler? Manifestations of First Breath, maybe? Escaped positive aspects of the whistlers themselves that they want to destroy, freeing themselves from morality, altogether.
 
 
 
