@@ -86,6 +86,7 @@ Purpose:
 - What if they contain the sparks of a dead whistler? Manifestations of First Breath, maybe? Escaped positive aspects of the whistlers themselves that they want to destroy, freeing themselves from morality, altogether.
 - What even is a soul? Like a subdivision of sentience, maybe? Like whistlers can't be subdivided, but mortals can (souls and bodies).
 - Like shedding or molting?
+- If these lastborn are kin, wouldn't that make Maria, Tess, and Jo kin too? Could be an issue.
 
 
 
