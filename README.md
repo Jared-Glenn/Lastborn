@@ -87,6 +87,7 @@ Purpose:
 - What even is a soul? Like a subdivision of sentience, maybe? Like whistlers can't be subdivided, but mortals can (souls and bodies).
 - Like shedding or molting?
 - If these lastborn are kin, wouldn't that make Maria, Tess, and Jo kin too? Could be an issue.
+- Fragments of First Breath might be possible. Maybe they're like manifestations of his creative spirit.
 
 
 
