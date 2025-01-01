@@ -16,7 +16,7 @@ Deep Maker
 
 ### Enemy Type Brainstorm
 
-Thelgeth (Cappers)
+Thelgeth (Cappers, Pluckers, Skinners)
 
 Whistlers
 
