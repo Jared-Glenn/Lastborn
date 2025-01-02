@@ -20,7 +20,7 @@ Thelgeth (Cappers, Pluckers, Skinners)
 
 Whistlers
 
-Fevriks
+Fevriks (Fever Worms?)
 
 Ranged
 
