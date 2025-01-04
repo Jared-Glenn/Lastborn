@@ -89,6 +89,7 @@ Purpose:
 - If these lastborn are kin, wouldn't that make Maria, Tess, and Jo kin too? Could be an issue.
 - Fragments of First Breath might be possible. Maybe they're like manifestations of his creative spirit.
 - Consider Asteib Ni. If he disappeared after making the hangmen, why continue with this? Seems like there should be a good twist here or else Asteib Ni begins to look like a fool.
+- Asteib Ni seems like he should be revealed to be a mastermind.
 
 
 
