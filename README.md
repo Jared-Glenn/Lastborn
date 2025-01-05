@@ -96,3 +96,15 @@ Purpose:
 
 
 NOTE: Their article on Venezualan Hairy Dwarves is fairly robust: https://cryptidz.fandom.com/wiki/Venezuelan_Hairy_Dwarves
+
+
+
+Brainstorm:
+
+Favorite Game Twists:
+
+- MC is Revan
+- MC is Comstock and must die
+- Kerrigan was infested
+- MC used stabbed the soulstone into his own head.
+- Tyreal was Baal
