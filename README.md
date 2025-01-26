@@ -14,6 +14,13 @@ Engineer
 
 Deep Maker
 
+# Hangman Bands
+- Haberdashers
+- Snalleygaster Lodge
+- The Dis Band
+- Loyal Brethren
+- The Order of the Skull
+
 ### Enemy Type Brainstorm
 
 Thelgeth (Cappers, Pluckers, Skinners)
