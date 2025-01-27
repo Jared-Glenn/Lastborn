@@ -21,6 +21,9 @@ Deep Maker
 - Loyal Brethren
 - The Order of the Skull
 
+- Maybe these bands could offer different bonuses or unit variations?
+- Specific missions for each band, maybe?
+
 ### Enemy Type Brainstorm
 
 Thelgeth (Cappers, Pluckers, Skinners)
