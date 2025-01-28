@@ -101,7 +101,10 @@ Purpose:
 - Consider Asteib Ni. If he disappeared after making the hangmen, why continue with this? Seems like there should be a good twist here or else Asteib Ni begins to look like a fool.
 - Asteib Ni seems like he should be revealed to be a mastermind.
 
-
+Three Factions?
+Hangmen
+Pluckers
+Frog-Snails?
 
 
 
