@@ -105,12 +105,15 @@ Purpose:
 
 #### Hangmen
 - Memory and Rebirth
+- Strong melee starter (Ten-blades)
 
 #### Pluckers
 - Strength and knowledge
+- Weak melee starter (thralls?)
 
 #### Frog-Snails?
 - Magic and sparks?
+- Ranged starters
 
 
 
