@@ -102,18 +102,22 @@ Purpose:
 - Asteib Ni seems like he should be revealed to be a mastermind.
 
 ### Three Factions?
+No air, but maybe tech and magic?
 
 #### Hangmen
 - Memory and Rebirth
 - Strong melee starter (Ten-blades)
+- Sixer shooter
 
 #### Pluckers
 - Strength and knowledge
 - Weak melee starter (thralls?)
+- Blood graspers
 
 #### Frog-Snails?
 - Magic and sparks?
 - Ranged starters
+- Fang blades?
 
 
 
