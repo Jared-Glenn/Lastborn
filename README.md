@@ -24,6 +24,11 @@ Deep Maker
 - Maybe these bands could offer different bonuses or unit variations?
 - Specific missions for each band, maybe?
 
+#### Cross between Thronefall and RTS?
+Preset base locations
+Autogenerate attackers
+Position defenders
+
 ### Enemy Type Brainstorm
 
 Thelgeth (Cappers, Pluckers, Skinners)
