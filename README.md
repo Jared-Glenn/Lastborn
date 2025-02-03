@@ -28,6 +28,7 @@ Deep Maker
 Preset base locations
 Autogenerate attackers
 Position defenders
+Allows focus on upgrades
 
 ### Enemy Type Brainstorm
 
