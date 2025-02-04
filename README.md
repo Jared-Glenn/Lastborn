@@ -109,11 +109,13 @@ Purpose:
 
 ### Three Factions?
 No air, but maybe tech and magic?
+Use other kinships or all lastborn? It might be hard if none of the factions are just cowboys, essentially.
 
 #### Hangmen
 - Memory and Rebirth
 - Strong melee starter (Ten-blades)
 - Sixer shooter
+- Moving Buildings
 
 #### Pluckers
 - Strength and knowledge
