@@ -121,11 +121,18 @@ Use other kinships or all lastborn? It might be hard if none of the factions are
 - Strength and knowledge
 - Weak melee starter (thralls?)
 - Blood graspers
+- Stealing or torturing thoughts
 
 #### Frog-Snails?
 - Magic and sparks?
 - Ranged starters
 - Fang blades?
+
+#### Duskmotts
+- Standard Cowboy
+
+#### Mugwumps
+- Native American feel
 
 
 
