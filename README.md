@@ -130,9 +130,11 @@ Use other kinships or all lastborn? It might be hard if none of the factions are
 
 #### Duskmotts
 - Standard Cowboy
+- Skip watches
 
 #### Mugwumps
 - Native American feel
+- Bows and axes
 
 
 
