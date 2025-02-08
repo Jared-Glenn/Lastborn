@@ -135,6 +135,7 @@ Use other kinships or all lastborn? It might be hard if none of the factions are
 #### Mugwumps
 - Native American feel
 - Bows and axes
+- Hidden buildings
 
 
 
