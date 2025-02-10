@@ -131,6 +131,7 @@ Use other kinships or all lastborn? It might be hard if none of the factions are
 #### Duskmotts
 - Standard Cowboy
 - Skip watches
+- Jump up and down cliffs.
 
 #### Mugwumps
 - Native American feel
