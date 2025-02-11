@@ -127,6 +127,7 @@ Use other kinships or all lastborn? It might be hard if none of the factions are
 - Magic and sparks?
 - Ranged starters
 - Fang blades?
+- Slow but strong?
 
 #### Duskmotts
 - Standard Cowboy
