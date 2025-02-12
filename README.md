@@ -122,6 +122,8 @@ Use other kinships or all lastborn? It might be hard if none of the factions are
 - Weak melee starter (thralls?)
 - Blood graspers
 - Stealing or torturing thoughts
+- Large and bloodthirsty
+- Death feeds them
 
 #### Frog-Snails?
 - Magic and sparks?
