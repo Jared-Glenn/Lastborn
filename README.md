@@ -109,6 +109,7 @@ Purpose:
 - **I think the frog-snails should be revealed villains.**
 - Asteib Ni decided that souls could be a helper, but intends to win by CONVINCING the frong-snails to side with the Lastborn and whistlers.
 - The frog-snails are agents of Asteib Ni at the beginning.
+- It could be a major turning point for the idea of kin.
 
 ### Three Factions?
 No air, but maybe tech and magic?
