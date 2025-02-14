@@ -150,7 +150,9 @@ Use other kinships or all lastborn? It might be hard if none of the factions are
 
 NOTE: Their article on Venezualan Hairy Dwarves is fairly robust: https://cryptidz.fandom.com/wiki/Venezuelan_Hairy_Dwarves
 
+## Plot:
 
+The snail-frogs are in trouble from the pluckers.
 
 Brainstorm:
 
