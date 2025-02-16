@@ -153,6 +153,7 @@ NOTE: Their article on Venezualan Hairy Dwarves is fairly robust: https://crypti
 ## Plot:
 
 -The hangmen are exploring old Adalon under the leadership of Connor Elmen (? might be another name).
+- Maybe Connor is a hangman that is part of the Loyal Brethren and believes in diplomacy and the essential goodness of all kin.
 - The snail-frogs are in trouble from the pluckers.
 - 
 
