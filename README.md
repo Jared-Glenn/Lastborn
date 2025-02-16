@@ -152,7 +152,9 @@ NOTE: Their article on Venezualan Hairy Dwarves is fairly robust: https://crypti
 
 ## Plot:
 
-The snail-frogs are in trouble from the pluckers.
+-The hangmen are exploring old Adalon under the leadership of Connor Elmen (? might be another name).
+- The snail-frogs are in trouble from the pluckers.
+- 
 
 Brainstorm:
 
