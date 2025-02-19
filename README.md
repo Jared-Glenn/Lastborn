@@ -157,7 +157,7 @@ NOTE: Their article on Venezualan Hairy Dwarves is fairly robust: https://crypti
 - A few missions helping duskmotts from Plucker attacks.
 - The Frog-snails appear and their leader offers to help.
 - The snail-frogs are also in trouble from the pluckers.
-- 
+- Pluckers are growing their numbers and pushing south toward New Dometius.
 
 Brainstorm:
 
