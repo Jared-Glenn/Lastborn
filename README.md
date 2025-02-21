@@ -159,6 +159,7 @@ NOTE: Their article on Venezualan Hairy Dwarves is fairly robust: https://crypti
 - The snail-frogs are also in trouble from the pluckers.
 - Pluckers are growing their numbers and pushing south toward New Dometius.
 - Something with Eighth of the West. Maybe he threatens to strengthen the curse of Croatova to wipe out all kin. Then it can focus on a conflict trying to avoid that. This could also create issues with hokflatzuls or the Host Kings, leading to the duskmott campaign.
+- A duskmott campaign could be either working FOR the host kings or fighting AGAINST them.
 
 Brainstorm:
 
