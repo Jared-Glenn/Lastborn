@@ -43,6 +43,8 @@ Ranged
 Melee
 
 Redirecters (Aegis Wheels)
+- Send an attack back at ranged units (x2 damage, cooldown)
+- Melee fighters
 
 Slow Big
 
