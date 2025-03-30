@@ -41,6 +41,8 @@ Fevriks (Fever Worms?)
 Ranged
 
 Melee
+-Tenblades
+Chance of critting followed by tenblade reload.
 
 Redirecters (Aegis Wheels)
 - Send an attack back at ranged units (x2 damage, cooldown)
