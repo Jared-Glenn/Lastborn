@@ -39,6 +39,7 @@ Whistlers
 Fevriks (Fever Worms?)
 
 Ranged
+-Fire six shots and need to reload.
 
 Melee
 -Tenblades
