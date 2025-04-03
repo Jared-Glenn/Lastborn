@@ -93,6 +93,7 @@ Abilities:
 - Maybe their hands and feet come from snail shells and they have eyestalks in their hands that look like wands.
 - I think their tongues should also be a semi-autonomous part of their anatomy, perhaps with eyes of its own.
 - The frog appearance could BE the shell.
+- Duskmotts build rails for chainrail gunners that can move quickly, but only on the rail. The rail can be destroyed, but the gunner is pretty tough.
 
 Purpose:
 
