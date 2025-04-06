@@ -117,7 +117,7 @@ Purpose:
 - The frog-snails are agents of Asteib Ni at the beginning.
 - It could be a major turning point for the idea of kin.
 
-### Three Factions?
+### Three Factions or Five?
 No air, but maybe tech and magic?
 Use other kinships or all lastborn? It might be hard if none of the factions are just cowboys, essentially.
 
