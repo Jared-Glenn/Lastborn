@@ -10,6 +10,10 @@ Sixshooter
 
 Tenbladesman
 
+(Hangmen) Staff Fighter
+- Pushes foes
+- Cleave attacks
+
 Engineer
 
 Deep Maker
