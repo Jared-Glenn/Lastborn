@@ -15,6 +15,8 @@ Tenbladesman
 - Cleave attacks
 
 Engineer
+- Improves buildings or defenses
+- Upgrades units (instead of buildings)
 
 Deep Maker
 
