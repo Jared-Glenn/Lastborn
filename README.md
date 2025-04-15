@@ -19,6 +19,8 @@ Engineer
 - Upgrades units (instead of buildings)
 
 Deep Maker
+Undertaker
+- Takes talents from fallen foes or allies, passing them on.
 
 # Hangman Bands
 - Haberdashers
