@@ -22,6 +22,10 @@ Deep Maker
 Undertaker
 - Takes talents from fallen foes or allies, passing them on.
 
+Knacks
+Whisperer
+- Get help from critters.
+
 # Hangman Bands
 - Haberdashers
 - Snalleygaster Lodge
