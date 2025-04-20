@@ -63,7 +63,10 @@ Redirecters (Aegis Wheels)
 
 Slow Big
 
+
 Fast Big
+- Railhammer
+- Need to stay in motion at all times or something.
 
 
 ### Story Brainstorm
