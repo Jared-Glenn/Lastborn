@@ -30,8 +30,8 @@ Whisperer
 - Haberdashers
 - Snalleygaster Lodge
 - The Dis Band
-- Loyal Brethren
-- The Order of the Skull
+- Loyal Brethren: Mercenaries
+- The Order of the Skull: Research and additional skills.
 
 - Maybe these bands could offer different bonuses or unit variations?
 - Specific missions for each band, maybe?
