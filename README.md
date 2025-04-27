@@ -25,6 +25,9 @@ Undertaker
 Knacks
 Whisperer
 - Get help from critters.
+Shadowcat
+- Ranged stealth kills.
+- Steal resources.
 
 # Hangman Bands
 - Haberdashers
