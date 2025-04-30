@@ -28,6 +28,8 @@ Whisperer
 Shadowcat
 - Ranged stealth kills.
 - Steal resources.
+Hound
+- See stealth
 
 # Hangman Bands
 - Haberdashers
