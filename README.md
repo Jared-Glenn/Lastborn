@@ -30,6 +30,8 @@ Shadowcat
 - Steal resources.
 Hound
 - See stealth
+Blacktooth
+- Intel?
 
 # Hangman Bands
 - Haberdashers
