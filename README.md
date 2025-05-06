@@ -104,7 +104,12 @@ Name:
 -Thunn’ha (Lovecraftian Frog People) thuum'ha
 -Loveland Frog?
 -https://lovecraft.fandom.com/wiki/Thuum%27ha?file=Thuumha.jpg
+- Glaaki (for the snail analogies)
+- Maybe the spike/wands are for creating some form of undead or dream creature.
+- Sensitivity to light. Maybe shell protects them.
 
+Psychology
+- Dreams, Death, Water (Glaaki)
 
 Abilities:
 
