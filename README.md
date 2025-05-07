@@ -107,9 +107,12 @@ Name:
 - Glaaki (for the snail analogies)
 - Maybe the spike/wands are for creating some form of undead or dream creature.
 - Sensitivity to light. Maybe shell protects them.
+- Shakers
 
 Psychology
 - Dreams, Death, Water (Glaaki)
+- Spills are evil.
+- Containment is good.
 
 Abilities:
 
