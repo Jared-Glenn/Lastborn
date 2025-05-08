@@ -113,6 +113,8 @@ Psychology
 - Dreams, Death, Water (Glaaki)
 - Spills are evil.
 - Containment is good.
+- Cages, bindings, jars, and prisons are revered technology.
+- Maybe use these items like religious or cultural symbols.
 
 Abilities:
 
