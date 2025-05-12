@@ -115,6 +115,7 @@ Psychology
 - Containment is good.
 - Cages, bindings, jars, and prisons are revered technology.
 - Maybe use these items like religious or cultural symbols.
+- They see their shell as discipline and control - necessary parts of their being.
 
 Abilities:
 
