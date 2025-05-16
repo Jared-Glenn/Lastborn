@@ -95,7 +95,7 @@ Maybe creating a home in Croatova?
 
 That would mean making fortifications, rather than conquering, which is fun too.
 
-
+If they consider containment to be good, they might stay in one place on purpose, making the need to move a conflict in the story.
 
 Lastborn Kinship:Thunn’ha?
 
