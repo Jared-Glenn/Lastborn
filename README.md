@@ -5,8 +5,10 @@ Manifest RTS
 ### Unit Type Brainstorm
 
 Riflemen
+- Slow long range
 
 Sixshooter
+- Hit and Run
 
 Tenbladesman
 
